@@ -1,2 +1,6 @@
 # customizable-rudder-shaft-arm
-Customizable rudder shaft arm generator for OpenSCAD
+A customizable rudder shaft arm generator for OpenSCAD
+
+![rudder shaft arm](img/customizable-rudder-shaft-arm.png)
+
+
